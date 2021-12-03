@@ -1,4 +1,4 @@
-#title {
+h1 {
     text-align: center;
 }
 
@@ -13,6 +13,19 @@ body {
     margin: auto;
     font-family: sans-serif;
 }
-.recipes {
+ul {
     line-height: 30px;
+    list-style-type: square;
+}
+p {
+    margin-bottom: 30px;
+}
+
+li {
+    margin: 10px;
+}
+
+.info {
+    list-style-type: none;
+    line-height: 15px;
 }

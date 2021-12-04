@@ -12,6 +12,7 @@ body {
     width: 600px;
     margin: auto;
     font-family: sans-serif;
+    background-color: burlywood;
 }
 ul {
     line-height: 30px;
